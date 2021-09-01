@@ -1,0 +1,22 @@
+{
+    "name": "pxt-plenbit",
+    "version": "0.0.32",
+    "description": "plenbit",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "plenbit.ts",
+        "_locales/ja/pxt-plenbit-strings.json",
+        "_locales/ja/pxt-plenbit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "yotta": {
+        "config": {}
+    }
+}
